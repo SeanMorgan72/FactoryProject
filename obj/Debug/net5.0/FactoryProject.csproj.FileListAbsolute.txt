@@ -1,0 +1,15 @@
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.AssemblyInfo.cs
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.deps.json
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.runtimeconfig.json
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.runtimeconfig.dev.json
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.dll
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/ref/FactoryProject.dll
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.pdb
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.dll
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/ref/FactoryProject.dll
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.pdb
+/Users/seanmorgan/repos/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.genruntimeconfig.cache
